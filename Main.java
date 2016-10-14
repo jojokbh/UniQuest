@@ -20,7 +20,7 @@ public class Main {
                 a[a_i][a_j] = in.nextDouble();
             }
         }
-
+//test
         if(m == m) {
 
             double sum1 = 0;
