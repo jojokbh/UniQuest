@@ -12,7 +12,7 @@ public class Main {
 
         int m = in.nextInt();
         double a[][] = new double[m][m];
-
+        //asdasd
 
         //adding numbers into a array
         for(int a_i=0; a_i < m; a_i++){
