@@ -1,4 +1,5 @@
-package com.dominiksimko;
+
+//just trying github
 
 import java.util.Scanner;
 
